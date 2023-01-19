@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9A%D0%BE%D1%81%D1%82%D1%8F+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-## Обо мне
+## 🙋‍♂️ Обо мне
 Желание ускорить рутинную работу подтолкнуло меня к изучению программирования, но после того, как я окунулся в эту сферу понял, что не хочу заниматься другим :)    
 В свободное время играю в теннис и катаюсь на велосипеде.
+
+
+## 🔨 С чем я работаю
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
