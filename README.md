@@ -14,6 +14,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Статистика
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKonstantine&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BKonstantine&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BKonstantine&theme=github)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKonstantine&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BKonstantine&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BKonstantine&theme=default)
+[![codewars](https://www.codewars.com/users/TreinHartned/badges/large)](https://www.codewars.com/users/TreinHartned)  
