@@ -17,4 +17,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKonstantine&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BKonstantine&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BKonstantine&theme=github)
 
-[![codewars](https://www.codewars.com/users/TreinHartned/badges/large)](https://www.codewars.com/users/TreinHartned)  
+[![LeetCode user BKonstantine](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FBKonstantine&logo=leetcode&logoColor=yellow)](https://leetcode.com/BKonstantine/)
