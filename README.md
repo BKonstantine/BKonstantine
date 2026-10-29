@@ -21,4 +21,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BKonstantine&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BKonstantine&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BKonstantine&theme=github)
 
-[![codewars](https://www.codewars.com/users/TreinHartned/badges/large)](https://www.codewars.com/users/TreinHartned)   
+[![codewars](https://www.codewars.com/users/KBuzunov/badges/large)](https://www.codewars.com/users/KBuzunov)   
